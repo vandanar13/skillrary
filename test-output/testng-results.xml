@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-30T14:52:15 IST" name="Default suite" finished-at="2023-05-30T14:52:30 IST" duration-ms="14610">
+    <groups>
+    </groups>
+    <test started-at="2023-05-30T14:52:15 IST" name="Default test" finished-at="2023-05-30T14:52:30 IST" duration-ms="14610">
+      <class name="testscripts.AddToCartTest">
+        <test-method is-config="true" signature="classConfig()[pri:0, instance:testscripts.AddToCartTest@4d465b11]" started-at="2023-05-30T14:52:15 IST" name="classConfig" finished-at="2023-05-30T14:52:17 IST" duration-ms="1423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classConfig -->
+        <test-method is-config="true" signature="methodConfig()[pri:0, instance:testscripts.AddToCartTest@4d465b11]" started-at="2023-05-30T14:52:17 IST" name="methodConfig" finished-at="2023-05-30T14:52:25 IST" duration-ms="7840" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodConfig -->
+        <test-method signature="addToCartTest()[pri:0, instance:testscripts.AddToCartTest@4d465b11]" started-at="2023-05-30T14:52:25 IST" name="addToCartTest" finished-at="2023-05-30T14:52:30 IST" duration-ms="4777" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCartTest -->
+        <test-method is-config="true" signature="methodTearDown()[pri:0, instance:testscripts.AddToCartTest@4d465b11]" started-at="2023-05-30T14:52:30 IST" name="methodTearDown" finished-at="2023-05-30T14:52:30 IST" duration-ms="470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodTearDown -->
+        <test-method is-config="true" signature="classTearDown()[pri:0, instance:testscripts.AddToCartTest@4d465b11]" started-at="2023-05-30T14:52:30 IST" name="classTearDown" finished-at="2023-05-30T14:52:30 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classTearDown -->
+      </class> <!-- testscripts.AddToCartTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
